@@ -21,3 +21,22 @@
     color: #f0f0f0;
     background-color: black;
 }
+
+
+#co {
+    color: teal;
+}
+
+#nm {
+    color: purple;
+}
+#ca {
+    color: yellow;
+}
+#fl {
+    color: yellow;
+}
+#ak {
+    background-fill: 'AlaskaFlag.jpg';
+
+}
